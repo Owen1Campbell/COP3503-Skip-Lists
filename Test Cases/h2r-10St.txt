@@ -1,0 +1,16 @@
+For the input file named h2r-in10.txt
+With the RNG unseeded,
+the current Skip List is shown below: 
+---infinity
+ 19605; 
+ 50435;  50435;  50435;  50435; 
+ 172833; 
+ 173358; 
+ 221501;  221501; 
+ 277806; 
+ 435717;  435717;  435717;  435717; 
+ 459989;  459989; 
+ 608256;  608256; 
+ 624436;  624436;  624436;  624436;  624436;  624436;  624436; 
++++infinity
+---End of Skip List---
